@@ -1,2 +1,2 @@
-# Zealot-Pharmacuticals
-A Phramaceuricals company website
+# Zealot-Pharmaceuticals
+The official website for pharmaceutical company: Zealot Pharmaceuticals
